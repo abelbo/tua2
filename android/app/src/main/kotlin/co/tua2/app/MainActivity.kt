@@ -1,4 +1,4 @@
-package com.example.tua2
+package co.tua2.app
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "952171685021",
+    "project_id": "tua2-5045c",
+    "storage_bucket": "tua2-5045c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952171685021:android:4a5c0ecddfd09713c7e074",
+        "android_client_info": {
+          "package_name": "co.tua2.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952171685021-ncsvvnhp5b9mb2b03dfjr0e8skmpjeaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKb0mE9sr3s_Zac7wj_mKcYjSRdQVcYmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952171685021-ncsvvnhp5b9mb2b03dfjr0e8skmpjeaj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952171685021-g9eu0c01tbl8l0id0dnbrvoeckplhnbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tua2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952171685021:android:e422f8f72cb2b9ebc7e074",
+        "android_client_info": {
+          "package_name": "com.example.tua2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952171685021-ncsvvnhp5b9mb2b03dfjr0e8skmpjeaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKb0mE9sr3s_Zac7wj_mKcYjSRdQVcYmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952171685021-ncsvvnhp5b9mb2b03dfjr0e8skmpjeaj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952171685021-g9eu0c01tbl8l0id0dnbrvoeckplhnbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tua2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
